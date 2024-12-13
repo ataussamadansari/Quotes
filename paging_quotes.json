@@ -182,7 +182,56 @@
   "totalPages": 5,
   "lastItemIndex": 20,
   "results": [
-    // Quotes Q16 to Q20
+     {
+      "_id": "Q16",
+      "author": "Author 1",
+      "authorSlug": "author-1",
+      "content": "The best way to predict the future is to create it.",
+      "dateAdded": "2024-01-01",
+      "dateModified": "2024-01-01",
+      "length": 55,
+      "tags": ["future", "creation"]
+    },
+    {
+      "_id": "Q17",
+      "author": "Author 2",
+      "authorSlug": "author-2",
+      "content": "Success usually comes to those who are too busy to be looking for it.",
+      "dateAdded": "2024-01-02",
+      "dateModified": "2024-01-02",
+      "length": 69,
+      "tags": ["success", "hardwork"]
+    },
+    {
+      "_id": "Q18",
+      "author": "Author 3",
+      "authorSlug": "author-3",
+      "content": "Don't watch the clock; do what it does. Keep going.",
+      "dateAdded": "2024-01-03",
+      "dateModified": "2024-01-03",
+      "length": 53,
+      "tags": ["motivation", "time"]
+    },
+    {
+      "_id": "Q19",
+      "author": "Author 4",
+      "authorSlug": "author-4",
+      "content": "Opportunities don't happen. You create them.",
+      "dateAdded": "2024-01-04",
+      "dateModified": "2024-01-04",
+      "length": 45,
+      "tags": ["opportunity", "creation"]
+    },
+    {
+      "_id": "Q20",
+      "author": "Author 5",
+      "authorSlug": "author-5",
+      "content": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+      "dateAdded": "2024-01-05",
+      "dateModified": "2024-01-05",
+      "length": 90,
+      "tags": ["success", "impact"]
+    }
   ]
 },
 {
@@ -192,6 +241,55 @@
   "totalPages": 5,
   "lastItemIndex": 25,
   "results": [
-    // Quotes Q21 to Q25
+     {
+      "_id": "Q21",
+      "author": "Author 1",
+      "authorSlug": "author-1",
+      "content": "The best way to predict the future is to create it.",
+      "dateAdded": "2024-01-01",
+      "dateModified": "2024-01-01",
+      "length": 55,
+      "tags": ["future", "creation"]
+    },
+    {
+      "_id": "Q22",
+      "author": "Author 2",
+      "authorSlug": "author-2",
+      "content": "Success usually comes to those who are too busy to be looking for it.",
+      "dateAdded": "2024-01-02",
+      "dateModified": "2024-01-02",
+      "length": 69,
+      "tags": ["success", "hardwork"]
+    },
+    {
+      "_id": "Q23",
+      "author": "Author 3",
+      "authorSlug": "author-3",
+      "content": "Don't watch the clock; do what it does. Keep going.",
+      "dateAdded": "2024-01-03",
+      "dateModified": "2024-01-03",
+      "length": 53,
+      "tags": ["motivation", "time"]
+    },
+    {
+      "_id": "Q24",
+      "author": "Author 4",
+      "authorSlug": "author-4",
+      "content": "Opportunities don't happen. You create them.",
+      "dateAdded": "2024-01-04",
+      "dateModified": "2024-01-04",
+      "length": 45,
+      "tags": ["opportunity", "creation"]
+    },
+    {
+      "_id": "Q25",
+      "author": "Author 5",
+      "authorSlug": "author-5",
+      "content": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+      "dateAdded": "2024-01-05",
+      "dateModified": "2024-01-05",
+      "length": 90,
+      "tags": ["success", "impact"]
+    }
   ]
 }
