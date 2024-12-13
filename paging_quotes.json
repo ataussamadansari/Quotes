@@ -1,0 +1,197 @@
+{
+  "count": 5,
+  "totalCount": 25,
+  "page": 1,
+  "totalPages": 5,
+  "lastItemIndex": 5,
+  "results": [
+    {
+      "_id": "Q1",
+      "author": "Author 1",
+      "authorSlug": "author-1",
+      "content": "The best way to predict the future is to create it.",
+      "dateAdded": "2024-01-01",
+      "dateModified": "2024-01-01",
+      "length": 55,
+      "tags": ["future", "creation"]
+    },
+    {
+      "_id": "Q2",
+      "author": "Author 2",
+      "authorSlug": "author-2",
+      "content": "Success usually comes to those who are too busy to be looking for it.",
+      "dateAdded": "2024-01-02",
+      "dateModified": "2024-01-02",
+      "length": 69,
+      "tags": ["success", "hardwork"]
+    },
+    {
+      "_id": "Q3",
+      "author": "Author 3",
+      "authorSlug": "author-3",
+      "content": "Don't watch the clock; do what it does. Keep going.",
+      "dateAdded": "2024-01-03",
+      "dateModified": "2024-01-03",
+      "length": 53,
+      "tags": ["motivation", "time"]
+    },
+    {
+      "_id": "Q4",
+      "author": "Author 4",
+      "authorSlug": "author-4",
+      "content": "Opportunities don't happen. You create them.",
+      "dateAdded": "2024-01-04",
+      "dateModified": "2024-01-04",
+      "length": 45,
+      "tags": ["opportunity", "creation"]
+    },
+    {
+      "_id": "Q5",
+      "author": "Author 5",
+      "authorSlug": "author-5",
+      "content": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+      "dateAdded": "2024-01-05",
+      "dateModified": "2024-01-05",
+      "length": 90,
+      "tags": ["success", "impact"]
+    }
+  ]
+},
+{
+  "count": 5,
+  "totalCount": 25,
+  "page": 2,
+  "totalPages": 5,
+  "lastItemIndex": 10,
+  "results": [
+    {
+      "_id": "Q6",
+      "author": "Author 6",
+      "authorSlug": "author-6",
+      "content": "Try not to become a man of success, but rather become a man of value.",
+      "dateAdded": "2024-01-06",
+      "dateModified": "2024-01-06",
+      "length": 69,
+      "tags": ["success", "value"]
+    },
+    {
+      "_id": "Q7",
+      "author": "Author 7",
+      "authorSlug": "author-7",
+      "content": "Life is what happens when you're busy making other plans.",
+      "dateAdded": "2024-01-07",
+      "dateModified": "2024-01-07",
+      "length": 57,
+      "tags": ["life", "planning"]
+    },
+    {
+      "_id": "Q8",
+      "author": "Author 8",
+      "authorSlug": "author-8",
+      "content": "The purpose of our lives is to be happy.",
+      "dateAdded": "2024-01-08",
+      "dateModified": "2024-01-08",
+      "length": 36,
+      "tags": ["life", "happiness"]
+    },
+    {
+      "_id": "Q9",
+      "author": "Author 9",
+      "authorSlug": "author-9",
+      "content": "Be yourself; everyone else is already taken.",
+      "dateAdded": "2024-01-09",
+      "dateModified": "2024-01-09",
+      "length": 47,
+      "tags": ["self", "identity"]
+    },
+    {
+      "_id": "Q10",
+      "author": "Author 10",
+      "authorSlug": "author-10",
+      "content": "The way to get started is to quit talking and begin doing.",
+      "dateAdded": "2024-01-10",
+      "dateModified": "2024-01-10",
+      "length": 56,
+      "tags": ["motivation", "action"]
+    }
+  ]
+},
+{
+  "count": 5,
+  "totalCount": 25,
+  "page": 3,
+  "totalPages": 5,
+  "lastItemIndex": 15,
+  "results": [
+    {
+      "_id": "Q11",
+      "author": "Author 11",
+      "authorSlug": "author-11",
+      "content": "Don't wait. The time will never be just right.",
+      "dateAdded": "2024-01-11",
+      "dateModified": "2024-01-11",
+      "length": 43,
+      "tags": ["time", "motivation"]
+    },
+    {
+      "_id": "Q12",
+      "author": "Author 12",
+      "authorSlug": "author-12",
+      "content": "Do what you can, with what you have, where you are.",
+      "dateAdded": "2024-01-12",
+      "dateModified": "2024-01-12",
+      "length": 49,
+      "tags": ["effort", "action"]
+    },
+    {
+      "_id": "Q13",
+      "author": "Author 13",
+      "authorSlug": "author-13",
+      "content": "Dream big and dare to fail.",
+      "dateAdded": "2024-01-13",
+      "dateModified": "2024-01-13",
+      "length": 27,
+      "tags": ["dreams", "failure"]
+    },
+    {
+      "_id": "Q14",
+      "author": "Author 14",
+      "authorSlug": "author-14",
+      "content": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "dateAdded": "2024-01-14",
+      "dateModified": "2024-01-14",
+      "length": 69,
+      "tags": ["hardship", "destiny"]
+    },
+    {
+      "_id": "Q15",
+      "author": "Author 15",
+      "authorSlug": "author-15",
+      "content": "The best revenge is massive success.",
+      "dateAdded": "2024-01-15",
+      "dateModified": "2024-01-15",
+      "length": 37,
+      "tags": ["success", "revenge"]
+    }
+  ]
+},
+{
+  "count": 5,
+  "totalCount": 25,
+  "page": 4,
+  "totalPages": 5,
+  "lastItemIndex": 20,
+  "results": [
+    // Quotes Q16 to Q20
+  ]
+},
+{
+  "count": 5,
+  "totalCount": 25,
+  "page": 5,
+  "totalPages": 5,
+  "lastItemIndex": 25,
+  "results": [
+    // Quotes Q21 to Q25
+  ]
+}
